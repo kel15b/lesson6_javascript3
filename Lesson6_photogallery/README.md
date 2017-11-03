@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kelli LaBelle
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We learned how HTML DOM and JavaScript can be used when trying to make a carasel for pictures. As well as how to change the elements within an HTML document
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kel15b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to disable buttons after they are clicked.
+2. I learned how to create active arrows.
+3. I also learned how to show all the pictures instead of having the person scroll through them all to get to a certain picture.
